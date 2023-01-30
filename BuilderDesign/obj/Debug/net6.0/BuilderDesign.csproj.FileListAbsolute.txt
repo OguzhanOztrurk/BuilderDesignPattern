@@ -1,0 +1,17 @@
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\bin\Debug\net6.0\BuilderDesign.exe
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\bin\Debug\net6.0\BuilderDesign.deps.json
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\bin\Debug\net6.0\BuilderDesign.runtimeconfig.json
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\bin\Debug\net6.0\BuilderDesign.dll
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\bin\Debug\net6.0\BuilderDesign.pdb
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.csproj.AssemblyReference.cache
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.AssemblyInfoInputs.cache
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.AssemblyInfo.cs
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.dll
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\refint\BuilderDesign.dll
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.pdb
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.genruntimeconfig.cache
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\ref\BuilderDesign.dll
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OGUZHANOZTURK\Desktop\BuilderDesign\BuilderDesign\obj\Debug\net6.0\BuilderDesign.csproj.CopyComplete

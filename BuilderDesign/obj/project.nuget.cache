@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVTfsgvaj53U2CHji2Q9znn8RlMttCX+ZVy4wudoPVWeJUbVbJnxiPBNcZbOtc3hwyIzdWYWH0Tqy6lH8KkaKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OGUZHANOZTURK\\Desktop\\BuilderDesign\\BuilderDesign\\BuilderDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OGUZHANOZTURK\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
